@@ -1,8 +1,6 @@
 /*//////////////////////////////////////////////////////////////////
 [ FONT ] */
-
 @import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&display=swap');
-
 /*//////////////////////////////////////////////////////////////////*/
 
 * {
@@ -11,7 +9,7 @@
 
 body {
 	font-family: 'Fuzzy Bubbles';
-    font-weight: bold;
+        font-weight: bold;
 }
 
 h1 {
@@ -83,7 +81,6 @@ div .container {
 
 
 /********** Desktop view **********/
-
 @media only screen and (min-width: 992px) {
     .column1,
     .column2,
@@ -95,7 +92,6 @@ div .container {
 
 
 /********** Tablet view **********/
-
 @media only screen and (min-width:768px) and (max-width: 991px) {
     .column1,
     .column2,
@@ -113,7 +109,6 @@ div .container {
 
 
 /********** Mobile View **********/
-
 @media only screen and (max-width: 767px) {
     .column1,
     .column2,
